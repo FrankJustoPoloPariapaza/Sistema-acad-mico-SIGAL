@@ -1,0 +1,10 @@
+# El sistema funciona solo con la biblioteca estándar de Python (3.9+).
+
+# Opcional: verificación criptográfica de la firma de los PDF recibidos.
+# pyhanko
+
+# Para generar el .exe más adelante:
+# pyinstaller
+
+# La interfaz gráfica usa Tkinter, que ya viene con Python en Windows (instalador de python.org).
+# En Linux: sudo apt install python3-tk
